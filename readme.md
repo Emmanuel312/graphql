@@ -1,1 +1,1 @@
-client do graphql yoga no localhost:4000
+client do graphql yoga no http://localhost:4000
